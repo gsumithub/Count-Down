@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    outline: none;
+    list-style: none;
+}
+/* Page background */
+body {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 15%;
+}
+
+/* Title styling */
+.title {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+/* Countdown numbers */
+.countdown {
+    font-size: 100px;
+    font-style: italic;
+}
